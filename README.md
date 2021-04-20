@@ -1,2 +1,2 @@
-# transportation_problem
-Optimization of transportation problem
+# Transportation Problem
+solving transportation problem using initial feasible solution
